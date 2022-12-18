@@ -1,4 +1,4 @@
-print('a' in 'merhaba')
+print('a' in 'merhaba benim adim ahmet')
 print('er' in 'merhaba')
 print('f' in 'merhaba')
 liste=[1,3,5,7,9,11]
